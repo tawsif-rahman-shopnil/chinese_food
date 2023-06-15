@@ -1,0 +1,3 @@
+com.hasnatjanirafin.chinesefood.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

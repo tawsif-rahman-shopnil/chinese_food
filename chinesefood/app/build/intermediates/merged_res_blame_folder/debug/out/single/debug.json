@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture14.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture14.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture2.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture2.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_list_item.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\font_manrop.ttf.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\font\\manrop.ttf"
+    },
+    {
+        "merged": "com.hasnatjanirafin.chinesefood.app-merged_res-28:/layout_activity_food_list.xml.flat",
+        "source": "com.hasnatjanirafin.chinesefood.app-main-30:/layout/activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture6.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture6.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picph.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picph.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture10.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture10.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_top.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\top.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout_food_item.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_bottom.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture3.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture3.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_food_item.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture13.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture13.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout_activity_food_list.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture15.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture15.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture1.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture1.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\font_karasha.otf.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\font\\karasha.otf"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture7.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture7.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picbg.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_activity_food_list.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture4.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture4.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\font_bd.ttf.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\font\\bd.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture12.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture12.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture16.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture16.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_activity_food_list_land.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\activity_food_list_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture8.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture8.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_itbg.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\itbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.hasnatjanirafin.chinesefood.app-merged_res-28:/layout-land_activity_food_detail.xml.flat",
+        "source": "com.hasnatjanirafin.chinesefood.app-main-30:/layout-land/activity_food_detail.xml"
+    },
+    {
+        "merged": "com.hasnatjanirafin.chinesefood.app-merged_res-28:/layout-land_activity_food_list.xml.flat",
+        "source": "com.hasnatjanirafin.chinesefood.app-main-30:/layout-land/activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\font_asiana.ttf.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\font\\asiana.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_activity_main_land.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\activity_main_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\xml_font_provider.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\xml\\font_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_food_item_land.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\food_item_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture5.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture5.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_activity_food_detail.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout-land_activity_food_detail_land.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout-land\\activity_food_detail_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture11.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture11.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_star.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\star.png"
+    },
+    {
+        "merged": "com.hasnatjanirafin.chinesefood.app-merged_res-28:/layout_activity_food_detail.xml.flat",
+        "source": "com.hasnatjanirafin.chinesefood.app-main-30:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\font_wastebone.ttf.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\font\\wastebone.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\font_msi.ttf.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\font\\msi.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\layout_activity_food_detail.xml.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-merged_res-28:\\drawable_picture9.png.flat",
+        "source": "C:\\Users\\Tawsif\\.gradle\\daemon\\8.0\\com.hasnatjanirafin.chinesefood.app-main-30:\\drawable\\picture9.png"
+    }
+]

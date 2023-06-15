@@ -1,0 +1,6 @@
+com.hasnatjanirafin.chinesefood.test.app-annotation-experimental-1.3.0-0 C:\Users\Tawsif\.gradle\caches\transforms-3\4f735b77350aefc156737b8f9bd0fa95\transformed\annotation-experimental-1.3.0\res
+com.hasnatjanirafin.chinesefood.test.app-core-1.5.0-1 C:\Users\Tawsif\.gradle\caches\transforms-3\7df3ea80e358b7c626734a27a40524e6\transformed\core-1.5.0\res
+com.hasnatjanirafin.chinesefood.test.app-androidTest-2 D:\Project\chinese_food\chinesefood\app\build\generated\res\resValues\androidTest\debug
+com.hasnatjanirafin.chinesefood.test.app-mergeDebugAndroidTestResources-3 D:\Project\chinese_food\chinesefood\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hasnatjanirafin.chinesefood.test.app-mergeDebugAndroidTestResources-4 D:\Project\chinese_food\chinesefood\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hasnatjanirafin.chinesefood.test.app-merged_res-5 D:\Project\chinese_food\chinesefood\app\build\intermediates\merged_res\debugAndroidTest
